@@ -14,9 +14,16 @@
 [![windows](./buttons/made_with_windows.gif)](#)
 <br>
 <br>
+MSN 2.0:
+<br>
+<br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vv1mwjhohgptks8phlt7mfgop&cover_image=true&theme=default&show_offline=false&background_color=240000&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<br>
+<br>
 _lembre-se que esse contador de stats não contabiliza os repositórios privados!_ <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kato8088&theme=date_night)](https://github.com/kato8088)
+<br>
 <br>
 
 <details>
