@@ -9,12 +9,8 @@
 [![nagareteku](./buttons/badapple.gif)](#)
 [![css](./buttons/css.png)](#)
 <br>
-[![cs4lyfe](./buttons/cs2.gif)](#)
-[![caso nao tenha entendido ainda o conteudo desse readme eh completamente sarcastico para fins de entretenimento obrigado pela compreensao](./buttons/sarcasm.gif)](#)
-[![windows](./buttons/made_with_windows.gif)](#)
 <br>
-<br>
-MSN 2.0:
+musica:
 <br>
 <br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vv1mwjhohgptks8phlt7mfgop&cover_image=true&theme=default&show_offline=false&background_color=240000&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
